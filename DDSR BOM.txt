@@ -1,0 +1,45 @@
+
+
+Qty Value     Device          Package  Parts                                                                                                                                                      Description             
+29  100k      RB              R0603    R5 R8 R24 R41 R79 R80 R81 R82 R18 R39 R54 R63 R75 R76 R77 R78 R83 R87 R88 R89 R90 R95 R96 R97 R98 R99 R100 R101 R102 R103 R104 R105 R106 R107 R108 R109 R110  Resistor                
+23  1k        RB              R0603    R6 R20 R25 R26 R27 R28 R29 R30 R36 R37 R42 R59 R60 R61 R62 R64 R84 R85 R86 R91 R92 R93 R94                                           Resistor                
+15  10k       RB              R0603    R1 R2 R7 R13 R14 R15 R21 R22 R23 R33 R34 R35 R47 R48 R49                                                                                     Resistor                
+11  20k       RB              R0603    R9 R10 R11 R12 R16 R43 R44 R45 R46 R50 R52                                                                                                       Resistor                
+
+1   330nf     CB              C0603    C20                                                                                                                                                        Non-Polarized Capacitor 
+2   10u       C-POL5          C-POL-5  C3, C4                                                                                                                                                     Polarized Capacitor     
+19  100nF     CB              C0603    C1, C2, C5, C6, C7,C8 C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C21, C22                                                                             Non-Polarized Capacitor 
+
+2   0.1A      PTC-FUSEC       PTC-SM   F1, F2                                                                                                                                                     PTC Fuse                
+
+12            NPNBC847        SOT23    Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13                                                                                                         NPN Transistor          
+
+2   DMR4003   DMRA4003        SMA      D1, D2                                                                                                                                                     Diode                   
+
+2   LM319     LM319           SOIC-14  U$1, U$2                                                                                                                                                   LM319-N                 
+1   CD4015C   CD4015C         TSSOP16  IC3                                                                                                                                                        CD4015 Shift Register   
+1   CD4070C   CD4070C         TSSOP14  IC2                                                                                                                                                        CD4070 Exclusive NOR    
+2   TL074     OPAMP-4TL074K   TSSOP14  IC4, IC5                                                                                                                                                   Quad OPAMP              
+2             OPAMP-2TL072T   TSSOP8   IC1, IC6                                                                                                                                                   Dual OPAMP              
+
+1   MC7805BDT MC7805BDT       DPAK-3   U1                                                                                                                                                         78xx SMD (D2PAK, DPAK)  
+
+1   OUT-1A    JACK-MONO-SW3MM PJ301-12 J3                                                                                                                                                         Mono Switched Jack      
+1   OUT-1B    JACK-MONO-SW3MM PJ301-12 J10                                                                                                                                                        Mono Switched Jack      
+1   OUT-2A    JACK-MONO-SW3MM PJ301-12 J4                                                                                                                                                         Mono Switched Jack      
+1   OUT-2B    JACK-MONO-SW3MM PJ301-12 J11                                                                                                                                                        Mono Switched Jack      
+1   OUT-3A    JACK-MONO-SW3MM PJ301-12 J5                                                                                                                                                         Mono Switched Jack      
+1   OUT-3B    JACK-MONO-SW3MM PJ301-12 J12                                                                                                                                                        Mono Switched Jack      
+1   OUT-4A    JACK-MONO-SW3MM PJ301-12 J6                                                                                                                                                         Mono Switched Jack      
+1   OUT-4B    JACK-MONO-SW3MM PJ301-12 J13                                                                                                                                                        Mono Switched Jack      
+1   CLOCKA    JACK-MONO-SW3MM PJ301-12 J2                                                                                                                                                         Mono Switched Jack      
+1   CLOCKB    JACK-MONO-SW3MM PJ301-12 J9                                                                                                                                                         Mono Switched Jack      
+1   CVOUTA    JACK-MONO-SW3MM PJ301-12 J7                                                                                                                                                         Mono Switched Jack      
+1   CVOUTB    JACK-MONO-SW3MM PJ301-12 J14                                                                                                                                                        Mono Switched Jack      
+1   DATA-A    JACK-MONO-SW3MM PJ301-12 J1                                                                                                                                                         Mono Switched Jack      
+1   DATA-B    JACK-MONO-SW3MM PJ301-12 J8                                                                                                                                                         Mono Switched Jack      
+
+
+1             5X2-PINHEAD     5X2M     SV1                                                                                                                                                        5x2 Male Pinheader      
+
+12            LED3MM          LED3MM   LED1A, LED1B, LED2A, LED2B, LED3A, LED3B, LED4A, LED4B, LEDCLOCKA, LEDCLOCKB, LEDDATAA, LEDDATAB                                                           LED                     
